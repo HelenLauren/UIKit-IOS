@@ -32,3 +32,5 @@ targets:
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: pucpr.edu.artistascuritibanos
+        INFOPLIST_KEY_CFBundleShortVersionString: "1.0"
+        INFOPLIST_KEY_CFBundleVersion: "1"
