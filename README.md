@@ -1,2 +1,10 @@
 # UIKit-IOS
-Midterm Project for the Mobile Development iOS class. Create a gallery of artists from Curitiba using Advanced UIKit.
+
+Grupo: 
+- Helen Lauren Bonato 
+- Marco Antonio Capote
+- Raissa Queiroz
+
+Documentation: 
+
+- https://docs.google.com/document/d/1SYw9MMTmWGsaXbPVAUQpwEyZTghj_eXVFRufuaKjL8Q/edit?usp=sharing
