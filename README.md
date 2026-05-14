@@ -7,4 +7,5 @@ Grupo:
 
 Documentation: 
 
-- https://docs.google.com/document/d/1SYw9MMTmWGsaXbPVAUQpwEyZTghj_eXVFRufuaKjL8Q/edit?usp=sharing
+- link doc: https://docs.google.com/document/d/1SYw9MMTmWGsaXbPVAUQpwEyZTghj_eXVFRufuaKjL8Q/edit?usp=sharing
+- Link video Youtube: https://www.youtube.com/watch?v=bKcCYbU06zw
